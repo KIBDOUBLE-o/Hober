@@ -1,0 +1,2 @@
+class FrontendLayer:
+    pass
